@@ -3,7 +3,7 @@ Google Competition is the coding competition that host every year by google.
 
 Google Kick Start 2022 - 
 
-[Kick start 2022](https://user-images.githubusercontent.com/58516376/188190598-715167e9-6c6c-406b-9035-e4167066da83.png)
+![Kick start 2022](https://user-images.githubusercontent.com/58516376/188190598-715167e9-6c6c-406b-9035-e4167066da83.png)
 [kick start 2022.pdf](https://github.com/ms471841/Google-Competition-/files/9479248/kick.start.2022.pdf)
 
 Google Hash code 2022 - 
